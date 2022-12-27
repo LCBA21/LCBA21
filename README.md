@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LCBA21
+- 👋 Hi, I’m Lesibana Ngoepe
 - 👀 I’m interested in Java,C#,React 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on C# based Projects
