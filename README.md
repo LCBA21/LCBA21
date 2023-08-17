@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lesibana Ngoepe
 - 👀 I’m interested in Java,C#,JavaScript
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on C# based Projects
 - 📫 How to reach me lesiban56@gmail.com
 
