@@ -12,7 +12,7 @@
 
 <h1 align="left">💼Experience</h1>
 <h3 align="left">Tshimologong Precinct 2023 - Present</h3>
-<h4 align="left">Contributed within a team to create and upkeep backend solutions for a specialized software system.</h4>
+<p align="left">Contributed within a team to create and upkeep backend solutions for a specialized software system.</p>
 <p align="left">Displayed expertise in Java, JEE (J2EE) server-side technologies, and the Spring Framework.</p>
 <p align="left">Effectively incorporated Web/RESTful services and JMS to augment application functionality.</p>
 
