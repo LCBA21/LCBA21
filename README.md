@@ -14,13 +14,13 @@
 <a href="https://linkedin.com/in/lesibana-ngoepe-junior-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lesibana-ngoepe-junior-developer" height="30" width="40" /></a>
 </p>
 
-💼<h1 align="left">Experience</h1>
+<h1 align="left">💼Experience</h1>
 <h3 align="left">Tshimologong Precinct 2023 - Present</h3>
 <h4 align="left">Contributed within a team to create and upkeep backend solutions for a specialized software system.</h4>
 <p align="left">Displayed expertise in Java, JEE (J2EE) server-side technologies, and the Spring Framework.</p>
 <p align="left">Effectively incorporated Web/RESTful services and JMS to augment application functionality.</p>
 
-<h1 align="left"><img src="https://image.flaticon.com/icons/svg/2301/2301308.svg" alt="certificate icon" width="30" height="30" style="vertical-align: bottom"> Certifications</h1>
+<h1 align="left"> Certifications</h1>
 <ul>
     <li><a href="https://www.coursera.org/account/accomplishments/verify/PD9G4LBQ29KF" target="_blank">Introduction to Backend Development -  Meta</a></li>
 
