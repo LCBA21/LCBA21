@@ -12,7 +12,7 @@
 
 <h1 align="left">💼Experience</h1>
 <h3 align="left">Tshimologong Precinct 2023 - Present</h3>
-<h3 align="left">Junior Software Developer Intern</h3>
+<h3 align="left"> Software Developer Intern</h3>
 <p align="left">Contributed within a team to develop frontend and backend solutions using React.js and MySQL for a specialized software system.</p>
 <p align="left">Displayed proficiency in React.js for building interactive user interfaces and in MySQL for database management and integration.</p>
 <p align="left">Effectively collaborated on the development of RESTful APIs to connect frontend and backend components.</p>
