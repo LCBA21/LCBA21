@@ -21,7 +21,9 @@
 <h1 align="left"> Certifications</h1>
 <ul>
     <li><a href="https://www.coursera.org/account/accomplishments/verify/PD9G4LBQ29KF" target="_blank">Introduction to Backend Development -  Meta</a></li>
-
+    <li><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C290D70DA2E8479C839468F40011C79A0CC1B245F73F626AB81432532FE59E43" target="_blank">Oracle Certified Associate, Java SE 8 Programmer</a></li>
+    <li><a href="https://www.udemy.com/certificate/UC-15ce29b2-8373-4610-a9a1-18f9abf0d1bc/" target="_blank">The Complete ReactJs Course - Basics to Advanced</a></li>
+    <li><a href="https://www.udemy.com/certificate/UC-957722dd-43d4-43cc-9183-68984f5461b1/" target="_blank">React Native Unveiled: From Basics to Mobile Mastery</a></li>
 </ul>
 
 
